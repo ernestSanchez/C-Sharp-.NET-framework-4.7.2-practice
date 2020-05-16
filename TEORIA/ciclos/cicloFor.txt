@@ -1,0 +1,8 @@
+int n = 0; //Variable de control
+
+            Console.WriteLine("ANTES DEL CICLO");
+
+            for (n = 1; n <= 10; n = n + 1)
+                Console.WriteLine("{0}", n);
+
+            Console.WriteLine("DESPUES DEL CICLO");

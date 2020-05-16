@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\clculoPerimetrosPoligono\clculoPerimetrosPoligono\bin\Debug\clculoPerimetrosPoligono.exe.config
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\clculoPerimetrosPoligono\clculoPerimetrosPoligono\bin\Debug\clculoPerimetrosPoligono.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\clculoPerimetrosPoligono\clculoPerimetrosPoligono\bin\Debug\clculoPerimetrosPoligono.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\clculoPerimetrosPoligono\clculoPerimetrosPoligono\obj\Debug\clculoPerimetrosPoligono.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\clculoPerimetrosPoligono\clculoPerimetrosPoligono\obj\Debug\clculoPerimetrosPoligono.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\clculoPerimetrosPoligono\clculoPerimetrosPoligono\obj\Debug\clculoPerimetrosPoligono.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\clculoPerimetrosPoligono\clculoPerimetrosPoligono\obj\Debug\clculoPerimetrosPoligono.pdb

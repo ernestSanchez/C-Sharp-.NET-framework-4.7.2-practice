@@ -1,0 +1,18 @@
+static void Main(string[] args)
+        {            
+            int i = 0;
+            int j = 0;
+            int resultado; 
+
+            for(i = 1; i <= 10; i++)
+            {
+                Console.WriteLine("Tabla de Multiplicar del {0}", i);
+
+                for (j = 1; j <= 11; j++)
+                {
+                    resultado = i * j;
+                    Console.WriteLine("{0} * {1} = {2}", i, j, resultado);
+                }
+                
+            }
+        }

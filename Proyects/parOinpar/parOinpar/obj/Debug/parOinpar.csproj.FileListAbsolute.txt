@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\parOinpar\parOinpar\bin\Debug\parOinpar.exe.config
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\parOinpar\parOinpar\bin\Debug\parOinpar.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\parOinpar\parOinpar\bin\Debug\parOinpar.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\parOinpar\parOinpar\obj\Debug\parOinpar.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\parOinpar\parOinpar\obj\Debug\parOinpar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\parOinpar\parOinpar\obj\Debug\parOinpar.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\parOinpar\parOinpar\obj\Debug\parOinpar.pdb

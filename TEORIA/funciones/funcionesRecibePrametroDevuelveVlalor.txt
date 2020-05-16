@@ -1,0 +1,185 @@
+namespace Seccion5
+{
+    class Program
+    {
+
+
+        // Esta es la función principal del programa
+        //Aquí inicia la aplicacion
+        static void Main(string[] args)
+        {
+
+            //Variables necesarias
+            int opcion = 0;
+            string valor = "";
+
+            //Mostrar el menú
+            Console.WriteLine("1 - Suma");
+            Console.WriteLine("2 - Resta");
+            Console.WriteLine("3 - Multiplicación");
+            Console.WriteLine("4 - División");
+
+            //Pedimos la opción
+            Console.Write("Escoge una opción: ");
+            valor = Console.ReadLine();
+            opcion = Convert.ToInt32(valor);
+
+            //verificamos para la suma
+            if (opcion == 1)
+            {
+                Suma();
+            }
+
+            //verificamos para la resta
+            if (opcion == 2)
+            {
+                //Variable para nuestro resultado
+                float resultado = 0;
+
+                //Invocamos y obtenemos el resultado
+                resultado = Resta();
+
+                //Mostramos el resultado
+                Console.WriteLine("El resultado de la resta es: {0}", resultado);
+
+            }
+
+            //verificamos para la multiplicación
+            if (opcion == 3)
+            {
+                //variables necesarias
+                float n1 = 0;
+                float n2 = 0;
+                string numero = "";
+
+                //pedimos los valores
+                Console.Write("Dame el primer número: ");
+                numero = Console.ReadLine();
+                n1 = Convert.ToSingle(numero);
+
+                Console.Write("Dame el segundo número: ");
+                numero = Console.ReadLine();
+                n2 = Convert.ToSingle(numero);
+
+                //Invocamos la función
+                Multiplicacion(n1, n2);
+
+            }
+
+
+            //verificamos para la división
+            if (opcion == 4)
+            {
+                //varibles necesarias
+                float n1 = 0.0f;
+                float n2 = 0.0f;
+                float resultado = 0.0f;
+                string numero = "";
+
+                //pedimos los valores
+                Console.Write("Dame el primer número: ");
+                numero = Console.ReadLine();
+                n1 = Convert.ToSingle(numero);
+
+                Console.Write("Dame el segundo número: ");
+                numero = Console.ReadLine();
+                n2 = Convert.ToSingle(numero);
+
+                //invocamos a la función
+                resultado = Division(n1, n2);
+
+                //Mostramos el resultado
+                Console.WriteLine("El resultado es: {0}", resultado);
+
+            }
+
+
+        }//Cierre de main
+
+        static void Suma()
+        {
+            //Variables necesarias
+            float a = 0;
+            float b = 0;
+            float r = 0;
+            string numero = "";
+
+            //pedimos los valores
+            Console.Write("Dame el primer número: ");
+            numero = Console.ReadLine();
+            a = Convert.ToSingle(numero);
+
+            Console.Write("Dame el segundo número: ");
+            numero = Console.ReadLine();
+            b = Convert.ToSingle(numero);
+
+            //Calcular el resultado
+            r = a + b;
+
+            //Mostramos el resultado
+            Console.WriteLine("El resultado de {0} + {1} = {2}", a, b, r);
+        }
+
+        static float Resta()
+        {
+            //Variables necesarias
+            float a = 0;
+            float b = 0;
+            float r = 0;
+            string numero = "";
+
+            //pedimos los valores
+            Console.Write("Dame el primer número: ");
+            numero = Console.ReadLine();
+            a = Convert.ToSingle(numero);
+
+            Console.Write("Dame el segundo número: ");
+            numero = Console.ReadLine();
+            b = Convert.ToSingle(numero);
+
+            //Calculamos el resultado
+            r = a - b;
+
+            //regresamos el resultado
+            return r;
+        }
+
+        static void Multiplicacion(float a, float b)
+        {
+
+           
+            //Variables necesarias
+            float r;
+
+            //calculamos el valor
+            r = a * b;
+
+            //Mostramos el resultado
+            Console.WriteLine("El resultado es: {0}", r);
+
+        }
+
+        static float Division(float a, float b)
+        {
+            //Variables necesarias
+            float r = 0;
+
+            //Verificamos para la división entre cero
+            if (b==0)
+            {
+                Console.WriteLine("No es posible dividir entre cero");
+                return 0.0f;
+            }
+            else
+            {
+                r = a / b;
+                return r;
+            }
+
+
+        }
+
+       
+    }//Cierre de la clase Program
+}
+ 

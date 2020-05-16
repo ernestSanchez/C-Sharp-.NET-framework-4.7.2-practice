@@ -1,0 +1,29 @@
+ float pies = 0.0f;
+            float pulgadas = 0.0f;
+            float centimetros = 0.0f;
+            string respuesta = "";
+            string valor = "";
+
+            do
+            {
+                //Pedimos los pies
+                Console.Write("Dame el número de pies: ");
+                valor = Console.ReadLine();
+                pies = Convert.ToSingle(valor);
+
+                //Pedimos las pulgadas
+                Console.Write("Dame el número de pulgadas: ");
+                valor = Console.ReadLine();
+                pulgadas = Convert.ToSingle(valor);
+
+                //Convertimos a cm.
+                centimetros = ((pies * 12) + pulgadas) * 2.54f;
+
+                //Mostramos resultado
+                Console.WriteLine("Son: {0} centimetros", centimetros);
+
+                //Preguntamos si quiere otra conversión
+                Console.Write("Deseas hacer otra conversión (si/no): ");
+                respuesta = Console.ReadLine();
+
+            } while (respuesta == "si");

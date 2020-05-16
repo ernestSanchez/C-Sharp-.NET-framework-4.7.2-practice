@@ -1,0 +1,21 @@
+INICIO
+
+1.Pedir el numero de lados 
+2.Pedir la medida de alguno de los lados 
+3.Calcular el poerimetro multiplicando la medida por el numero
+4.Mostrar perimetro
+
+
+INICIO
+
+Variables:
+	int: numeroLados
+	double: tamanoLado, perimetro
+Escribir ("Dame el numero de lados: ")
+leer (numeroLados)
+Escribir ("Dame el tamaño de uno de los lados: ")
+Leer (tamañoLado)
+perimetro = numeroLados * tamanoLado
+Escribir ("EL perimetro es: ",perimetro)
+
+FIN

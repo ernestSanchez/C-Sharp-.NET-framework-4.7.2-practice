@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\ejercicioelevarapaotencia\ejercicioelevarapaotencia\bin\Debug\ejercicioelevarapaotencia.exe.config
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\ejercicioelevarapaotencia\ejercicioelevarapaotencia\bin\Debug\ejercicioelevarapaotencia.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\ejercicioelevarapaotencia\ejercicioelevarapaotencia\bin\Debug\ejercicioelevarapaotencia.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\ejercicioelevarapaotencia\ejercicioelevarapaotencia\obj\Debug\ejercicioelevarapaotencia.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\ejercicioelevarapaotencia\ejercicioelevarapaotencia\obj\Debug\ejercicioelevarapaotencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\ejercicioelevarapaotencia\ejercicioelevarapaotencia\obj\Debug\ejercicioelevarapaotencia.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\ejercicioelevarapaotencia\ejercicioelevarapaotencia\obj\Debug\ejercicioelevarapaotencia.pdb

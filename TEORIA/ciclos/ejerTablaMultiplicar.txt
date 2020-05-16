@@ -1,0 +1,14 @@
+int n = 0;//Variable de control
+            int numero = 0;//numero para tabla
+            int resultado = 0;
+            string valor = "";
+
+            Console.Write("Dame un número para mostrarte la tabla de multiplicar: ");
+            valor = Console.ReadLine();
+            numero = Convert.ToInt32(valor);
+
+            for(n = 1; n <= 10; n++)
+            {
+                resultado = n * numero;
+                Console.WriteLine("{0} * {1} = {2}", n, numero, resultado);
+            }

@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\matrices\matrices\bin\Debug\matrices.exe.config
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\matrices\matrices\bin\Debug\matrices.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\matrices\matrices\bin\Debug\matrices.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\matrices\matrices\obj\Debug\matrices.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\matrices\matrices\obj\Debug\matrices.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\matrices\matrices\obj\Debug\matrices.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\matrices\matrices\obj\Debug\matrices.pdb

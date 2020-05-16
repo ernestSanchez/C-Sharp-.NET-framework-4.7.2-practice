@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\HolaMundoOtraVez\HolaMundoOtraVez\bin\Debug\HolaMundoOtraVez.exe.config
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\HolaMundoOtraVez\HolaMundoOtraVez\bin\Debug\HolaMundoOtraVez.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\HolaMundoOtraVez\HolaMundoOtraVez\bin\Debug\HolaMundoOtraVez.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\HolaMundoOtraVez\HolaMundoOtraVez\obj\Debug\HolaMundoOtraVez.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\HolaMundoOtraVez\HolaMundoOtraVez\obj\Debug\HolaMundoOtraVez.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\HolaMundoOtraVez\HolaMundoOtraVez\obj\Debug\HolaMundoOtraVez.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\HolaMundoOtraVez\HolaMundoOtraVez\obj\Debug\HolaMundoOtraVez.pdb

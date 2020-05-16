@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\calculoPerimetroFuncion\calculoPerimetroFuncion\bin\Debug\calculoPerimetroFuncion.exe.config
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\calculoPerimetroFuncion\calculoPerimetroFuncion\bin\Debug\calculoPerimetroFuncion.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\calculoPerimetroFuncion\calculoPerimetroFuncion\bin\Debug\calculoPerimetroFuncion.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\calculoPerimetroFuncion\calculoPerimetroFuncion\obj\Debug\calculoPerimetroFuncion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\calculoPerimetroFuncion\calculoPerimetroFuncion\obj\Debug\calculoPerimetroFuncion.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\calculoPerimetroFuncion\calculoPerimetroFuncion\obj\Debug\calculoPerimetroFuncion.pdb

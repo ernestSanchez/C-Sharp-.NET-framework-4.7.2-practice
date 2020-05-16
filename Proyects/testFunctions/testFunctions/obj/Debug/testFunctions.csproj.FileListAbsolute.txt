@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\testFunctions\testFunctions\bin\Debug\testFunctions.exe.config
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\testFunctions\testFunctions\bin\Debug\testFunctions.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\testFunctions\testFunctions\bin\Debug\testFunctions.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\testFunctions\testFunctions\obj\Debug\testFunctions.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\testFunctions\testFunctions\obj\Debug\testFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\testFunctions\testFunctions\obj\Debug\testFunctions.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\testFunctions\testFunctions\obj\Debug\testFunctions.pdb

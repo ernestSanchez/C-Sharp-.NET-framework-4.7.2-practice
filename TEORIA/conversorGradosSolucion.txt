@@ -1,0 +1,17 @@
+static void Main(string[] args)
+        {
+            // Hacer un programa que transforme de grados Centígrados a grados Fahrenheit
+
+            // Variables
+            float gradosC, gradosF;
+
+            // Pedimos los °C
+            Console.Write("Dame los °C: ");
+            gradosC = Convert.ToSingle(Console.ReadLine());
+
+            //Convertimos los °C a °F
+            gradosF = (gradosC * 1.8f) + 32;
+
+            // Mostramos el resultado
+            Console.WriteLine("{0} °C = {1} °F", gradosC, gradosF);
+        }

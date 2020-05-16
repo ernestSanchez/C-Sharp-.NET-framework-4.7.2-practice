@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\naveVoladora\naveVoladora\bin\Debug\naveVoladora.exe.config
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\naveVoladora\naveVoladora\bin\Debug\naveVoladora.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\naveVoladora\naveVoladora\bin\Debug\naveVoladora.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\naveVoladora\naveVoladora\obj\Debug\naveVoladora.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\naveVoladora\naveVoladora\obj\Debug\naveVoladora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\naveVoladora\naveVoladora\obj\Debug\naveVoladora.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\naveVoladora\naveVoladora\obj\Debug\naveVoladora.pdb

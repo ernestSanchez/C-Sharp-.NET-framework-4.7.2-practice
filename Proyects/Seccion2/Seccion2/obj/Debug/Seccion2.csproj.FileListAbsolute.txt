@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\Seccion2\Seccion2\bin\Debug\Seccion2.exe.config
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\Seccion2\Seccion2\bin\Debug\Seccion2.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\Seccion2\Seccion2\bin\Debug\Seccion2.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\Seccion2\Seccion2\obj\Debug\Seccion2.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\Seccion2\Seccion2\obj\Debug\Seccion2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\Seccion2\Seccion2\obj\Debug\Seccion2.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\Seccion2\Seccion2\obj\Debug\Seccion2.pdb

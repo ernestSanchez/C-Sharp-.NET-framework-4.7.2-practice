@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\GradosRadianes\GradosRadianes\bin\Debug\GradosRadianes.exe.config
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\GradosRadianes\GradosRadianes\bin\Debug\GradosRadianes.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\GradosRadianes\GradosRadianes\bin\Debug\GradosRadianes.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\GradosRadianes\GradosRadianes\obj\Debug\GradosRadianes.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\GradosRadianes\GradosRadianes\obj\Debug\GradosRadianes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\GradosRadianes\GradosRadianes\obj\Debug\GradosRadianes.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\GradosRadianes\GradosRadianes\obj\Debug\GradosRadianes.pdb

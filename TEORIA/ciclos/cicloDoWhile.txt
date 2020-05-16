@@ -1,0 +1,20 @@
+int temperatura = 0;
+            string valor = "";
+
+            //Pedimos la temperatura
+            Console.Write("Dame la temperatura actual: ");
+            valor = Console.ReadLine();
+            temperatura = Convert.ToInt32(valor);
+
+            //Ciclo para reducir la temperatura
+
+            while(temperatura > 20)
+            {
+                //Disminuir la temperatura
+                temperatura--;
+
+                Console.WriteLine("La temperatura es: {0}", temperatura);
+            }
+
+            //Mostramos la temperatura final
+            Console.WriteLine("La temperatura final es: {0}", temperatura);

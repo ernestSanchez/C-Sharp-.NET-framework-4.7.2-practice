@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\promedioAlumnos\promedioAlumnos\bin\Debug\promedioAlumnos.exe.config
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\promedioAlumnos\promedioAlumnos\bin\Debug\promedioAlumnos.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\promedioAlumnos\promedioAlumnos\bin\Debug\promedioAlumnos.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\promedioAlumnos\promedioAlumnos\obj\Debug\promedioAlumnos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\promedioAlumnos\promedioAlumnos\obj\Debug\promedioAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\promedioAlumnos\promedioAlumnos\obj\Debug\promedioAlumnos.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\promedioAlumnos\promedioAlumnos\obj\Debug\promedioAlumnos.pdb

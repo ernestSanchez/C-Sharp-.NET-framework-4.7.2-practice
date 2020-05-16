@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\multiplicarEjercicio\multiplicarEjercicio\bin\Debug\multiplicarEjercicio.exe.config
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\multiplicarEjercicio\multiplicarEjercicio\bin\Debug\multiplicarEjercicio.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\multiplicarEjercicio\multiplicarEjercicio\bin\Debug\multiplicarEjercicio.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\multiplicarEjercicio\multiplicarEjercicio\obj\Debug\multiplicarEjercicio.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\multiplicarEjercicio\multiplicarEjercicio\obj\Debug\multiplicarEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\multiplicarEjercicio\multiplicarEjercicio\obj\Debug\multiplicarEjercicio.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\multiplicarEjercicio\multiplicarEjercicio\obj\Debug\multiplicarEjercicio.pdb

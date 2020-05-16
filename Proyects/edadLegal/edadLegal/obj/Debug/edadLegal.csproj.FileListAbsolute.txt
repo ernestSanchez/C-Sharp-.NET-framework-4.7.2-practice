@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\edadLegal\edadLegal\bin\Debug\edadLegal.exe.config
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\edadLegal\edadLegal\bin\Debug\edadLegal.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\edadLegal\edadLegal\bin\Debug\edadLegal.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\edadLegal\edadLegal\obj\Debug\edadLegal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\edadLegal\edadLegal\obj\Debug\edadLegal.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\edadLegal\edadLegal\obj\Debug\edadLegal.pdb

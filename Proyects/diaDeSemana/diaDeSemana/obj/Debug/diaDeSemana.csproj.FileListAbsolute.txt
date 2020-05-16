@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\diaDeSemana\diaDeSemana\bin\Debug\diaDeSemana.exe.config
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\diaDeSemana\diaDeSemana\bin\Debug\diaDeSemana.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\diaDeSemana\diaDeSemana\bin\Debug\diaDeSemana.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\diaDeSemana\diaDeSemana\obj\Debug\diaDeSemana.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\diaDeSemana\diaDeSemana\obj\Debug\diaDeSemana.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\diaDeSemana\diaDeSemana\obj\Debug\diaDeSemana.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\diaDeSemana\diaDeSemana\obj\Debug\diaDeSemana.csprojAssemblyReference.cache

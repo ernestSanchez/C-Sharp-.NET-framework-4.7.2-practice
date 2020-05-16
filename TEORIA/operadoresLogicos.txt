@@ -1,0 +1,25 @@
+static void Main(string[] args)
+        {
+            double energia;
+            bool propulsorIzquierdo = false;
+            bool propulsorDerecho = false;
+
+            Console.Write("¿Cuánta energía tenemos?: ");
+            energia = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("¿El propulsor izquierdo esta en buen estado?(true/false): ");
+            propulsorIzquierdo = Convert.ToBoolean(Console.ReadLine());
+
+            Console.Write("¿El propulsor derecho esta en buen estado?(true/false): ");
+            propulsorDerecho = Convert.ToBoolean(Console.ReadLine());
+
+            if ((((propulsorDerecho && propulsorIzquierdo) == true) && energia >= 75) || (((propulsorIzquierdo || propulsorDerecho) == true) && (energia == 100)))
+            {
+                Console.WriteLine("Permiso para despegar");
+            }
+            else
+            {
+                Console.WriteLine("No tienes permiso para despegar");
+            }
+
+        }

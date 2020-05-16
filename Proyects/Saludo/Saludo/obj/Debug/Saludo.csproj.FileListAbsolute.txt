@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\Saludo\Saludo\bin\Debug\Saludo.exe.config
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\Saludo\Saludo\bin\Debug\Saludo.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\Saludo\Saludo\bin\Debug\Saludo.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\Saludo\Saludo\obj\Debug\Saludo.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\Saludo\Saludo\obj\Debug\Saludo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\Saludo\Saludo\obj\Debug\Saludo.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\Saludo\Saludo\obj\Debug\Saludo.pdb

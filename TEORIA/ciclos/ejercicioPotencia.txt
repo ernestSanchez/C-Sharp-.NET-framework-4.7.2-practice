@@ -1,0 +1,50 @@
+	int numero, exponente;
+            int n = 1; //Variable de control
+
+            float resultado = 1.0f;
+            float resultado_negativo = 0.0f;
+
+            string valor = "";
+
+            //Pedimos la base
+            Console.Write("Dame la base: ");
+            valor = Console.ReadLine();
+            numero = Convert.ToInt32(valor);
+
+            //Pedimos el exponente
+            Console.Write("Dame el exponente: ");
+            valor = Console.ReadLine();
+            exponente = Convert.ToInt32(valor);
+
+            if (exponente < 0)
+            {
+                exponente = (exponente * (-1));
+
+                while(n <= exponente)
+                {
+                    resultado *= numero;
+                    n++;
+                }
+
+                resultado_negativo = (1 / resultado);
+
+                //MOstramos el resultado
+                Console.WriteLine("{0}^{1} = {2}", numero, exponente, resultado_negativo);
+            }
+
+            else
+            {
+                while (n <= exponente)
+                {
+                    resultado *= numero;
+                    n++;
+                }
+
+                
+                //MOstramos el resultado
+                Console.WriteLine("{0}^{1} = {2}", numero, exponente, resultado);
+
+            }
+
+            
+

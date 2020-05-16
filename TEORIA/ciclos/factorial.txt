@@ -1,0 +1,20 @@
+int n = 0; //Variable de control
+            int numero = 0; //numero al que sacamos el factorial el factorial es la multiplicacion de un numero por sus antecesores ej: 5 = 5*4*3*2*1
+            int factorial = 1; //Factorial calculado
+            string valor = "";
+
+            //pedir el número
+            Console.Write("Dame el número para calcular el factorial: ");
+            valor = Console.ReadLine();
+            numero = Convert.ToInt32(valor);
+
+            //Calcular el factorial
+            for ( n = numero; n >= 1; n--)
+            {
+                factorial *= n;
+            }
+
+            //Mostramos el factorial
+            Console.WriteLine("El factorial de {0} es: {1}", numero, factorial);
+
+            

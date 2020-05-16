@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\parametrosDefault\parametrosDefault\obj\Debug\parametrosDefault.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\parametrosDefault\parametrosDefault\bin\Debug\parametrosDefault.exe.config
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\parametrosDefault\parametrosDefault\bin\Debug\parametrosDefault.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\parametrosDefault\parametrosDefault\bin\Debug\parametrosDefault.pdb
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\parametrosDefault\parametrosDefault\obj\Debug\parametrosDefault.exe
+C:\Users\Usuario\Desktop\C.SHARP\Proyects\parametrosDefault\parametrosDefault\obj\Debug\parametrosDefault.pdb

@@ -1,0 +1,26 @@
+int numero = 5;
+
+            Console.WriteLine("Valor inicial {0}", numero);
+
+        
+            //Incrementamos
+            numero++;
+
+            Console.WriteLine("Después del incremento {0}", numero);
+
+            //Decrementamos
+            numero--;
+
+            Console.WriteLine("Después del decremento {0}", numero);
+
+            //Incrementamos en la sentencia
+            Console.WriteLine("Incremento en la sentencia {0}", numero++);
+
+            //Valor despues de la sentencia
+            Console.WriteLine("Valor después de la sentencia {0}", numero);
+
+            //Incremento en la sentencia como prefijo
+            Console.WriteLine("Incremento en la sentencia {0}", ++numero);
+
+            //Valor despues de la sentencia como prefijo
+            Console.WriteLine("Valor después de la sentencia como prefijo {0}", numero);

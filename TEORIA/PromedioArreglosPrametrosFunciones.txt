@@ -1,0 +1,43 @@
+class Program
+    {
+        static void Main(string[] args)
+        {
+            int i = 0;
+
+            double[] calificaciones = new double[4];
+
+            for (i = 0; i < calificaciones.Length; i++)
+            {
+                Console.Write("Dame la calificación: ");
+                calificaciones[i] = Convert.ToDouble(Console.ReadLine());
+            }
+
+            ImprimirArreglo(calificaciones);
+            PromedioArreglo(calificaciones);
+
+        }//Cierre de Main()     
+
+        static void ImprimirArreglo(double[] arregloRecibe)
+        {
+            int i = 0;
+            for (i = 0; i < arregloRecibe.Length; i++)
+            {
+                Console.WriteLine("La calificación es: {0}", arregloRecibe[i]);
+            }
+        }
+
+        static void PromedioArreglo(double[] arregloPromedio)
+        {
+            int i = 0;
+            double sumaCalificaciones = 0.0;
+            double promedio = 0.0;
+
+            for (i= 0; i < arregloPromedio.Length; i++)
+            {
+                sumaCalificaciones += arregloPromedio[i];
+            }
+            promedio = sumaCalificaciones / arregloPromedio.Length;
+
+            Console.WriteLine("El promedio es: {0}", promedio);
+        }
+    }

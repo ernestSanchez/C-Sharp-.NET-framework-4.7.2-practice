@@ -1,0 +1,14 @@
+DECLARACIÓN
+
+foreach (tipo identificador in expresion)
+            {
+		sentencia
+            }
+
+RECORRIDO DE UN ARREGLO DE NOMBRE "COSTO"
+
+foreach(int valor in costo)
+            {
+                Console.WriteLine("El valor es de: {0}", valor);
+            }
+                

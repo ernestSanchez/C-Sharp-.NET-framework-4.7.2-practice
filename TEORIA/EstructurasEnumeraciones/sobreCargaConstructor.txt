@@ -1,0 +1,83 @@
+class Program
+    {
+        static void Main(string[] args)
+        {
+
+        
+
+            Agenda amigo = new Agenda("Pedro", 30, "5546789610");
+            Console.WriteLine(amigo.ToString());
+
+            Agenda prueba = new Agenda("Juan", 25, "34567890");
+            Console.WriteLine(prueba.ToString());
+
+            Agenda prueba2 = new Agenda("Marco", 12);
+            Console.WriteLine(prueba2.ToString());
+
+            Agenda prueba3 = new Agenda("Hector");
+            Console.WriteLine(prueba3.ToString());
+
+
+        }//Cierre de Main  
+        
+        public struct Agenda
+        {
+            public String Nombre;
+            public int Edad;
+            public String Telefono;
+
+            public override string ToString()
+            {
+                StringBuilder sb = new StringBuilder();
+                sb.AppendFormat("Nombre: {0}, Edad: {1}, Telefono: {2}", Nombre, Edad, Telefono);
+                return (sb.ToString());
+            }
+
+            public Agenda(String pNombre, int pEdad, String pTelefono)
+            {
+                //Llevando a cabo la asignación
+                Nombre = pNombre;
+                Edad = pEdad;
+
+                if(pTelefono.Length==10)
+                {
+                    Telefono = pTelefono;
+                }
+                else
+                {
+                    Telefono = "Teléfono no es válido";
+                }
+                
+            }
+
+            public Agenda (String pNombre, int pEdad)
+            {
+                //Llevamos a cabo la asignación
+                Nombre = pNombre;
+                Edad = pEdad;
+
+                Telefono = "Sin Teléfono";
+            }
+
+            public Agenda (String pNombre)
+            {
+                //Llevando a cabo la asignación del nombre
+                Nombre = pNombre;
+
+                //Pedimos la edad
+                Console.Write("Dame la edad: ");
+                Edad = Convert.ToInt32(Console.ReadLine());
+
+                //Pedimos el teléfono
+                Console.Write("Dame el teléfono: ");
+                Telefono = Console.ReadLine();
+
+                if(Telefono.Length != 10)
+                {
+                    Telefono = "Teléfono no valido";
+                }
+            }
+
+        }
+
+    }
